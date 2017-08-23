@@ -1,0 +1,7 @@
+import '../../base/styles/base.css'
+import './nav.css'
+import './nav-tabs-toggle.css'
+import './nav-tabs.css'
+import './nav-tabs1.css'
+import './nav-tabs2.css'
+import './nav-tabs3.css'

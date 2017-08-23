@@ -1,0 +1,7 @@
+import './table.css'
+import './table-striped.css'
+import './table-responsive.css'
+import './table-hover.css'
+import './table-condensed.css'
+import './table-bordered.css'
+import './table-bordered-erect.css'

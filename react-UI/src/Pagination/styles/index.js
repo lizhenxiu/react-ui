@@ -1,0 +1,6 @@
+import './pagination.css'
+import './pagination-simple.css'
+import './pagination-simple-input.css'
+import './pagination-jump.css'
+import './pagination-border-radius.css'
+import './pagination-border-radius-circle.css'

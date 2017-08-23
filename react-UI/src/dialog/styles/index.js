@@ -1,0 +1,6 @@
+import '../../base/styles/base.css'
+import './alert.css'
+import './alert-cover.css'
+import './alert-dismissable.css'
+import './alert-sm.css'
+import './alert-title-color.css'
